@@ -1,4 +1,6 @@
 FROM ubuntu
-RUN apt update -y
-RUN apt install tree -y
-RUN echo "Hi Ram" > /tmp/ramfile
+WORKDIR /tmp
+RUN echo "Hi Raaj" > /tmp/raajfile
+ENV myname sai
+COPY linuxfile1 /etc
+ADD devops.tar.gz /home
