@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1750502621,,"wq!"
+|2,0,1750513566,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,36 +25,62 @@
 # Registers:
 
 # File marks:
-'0  3  0  ~/Dockerfile
-|4,48,3,0,1750502621,"~/Dockerfile"
-'1  1  0  ~/Sameerdockerfile
-|4,49,1,0,1750428652,"~/Sameerdockerfile"
-'2  1  12  ~/linuxfile1
-|4,50,1,12,1750427597,"~/linuxfile1"
-'3  2  102  ~/Dockerfile
-|4,51,2,102,1750427551,"~/Dockerfile"
-'4  6  22  ~/Dockerfile
-|4,52,6,22,1750427551,"~/Dockerfile"
-'5  2  37  ~/Dockerfile
-|4,53,2,37,1750426512,"~/Dockerfile"
-'6  2  71  ~/Dockerfile
-|4,54,2,71,1750426512,"~/Dockerfile"
-'7  3  25  ~/Dockerfile
-|4,55,3,25,1750426512,"~/Dockerfile"
-'8  4  25  ~/Dockerfile
-|4,56,4,25,1750426512,"~/Dockerfile"
-'9  2  37  ~/Dockerfile
-|4,57,2,37,1750426225,"~/Dockerfile"
+'0  1  6  ~/index.html
+|4,48,1,6,1750513566,"~/index.html"
+'1  4  39  ~/Dockerfile
+|4,49,4,39,1750512823,"~/Dockerfile"
+'2  1  27  ~/Dockerfile
+|4,50,1,27,1750502621,"~/Dockerfile"
+'3  3  0  ~/Dockerfile
+|4,51,3,0,1750502621,"~/Dockerfile"
+'4  1  0  ~/Sameerdockerfile
+|4,52,1,0,1750428652,"~/Sameerdockerfile"
+'5  1  12  ~/linuxfile1
+|4,53,1,12,1750427597,"~/linuxfile1"
+'6  1  113  ~/Dockerfile
+|4,54,1,113,1750427551,"~/Dockerfile"
+'7  7  22  ~/Dockerfile
+|4,55,7,22,1750427551,"~/Dockerfile"
+'8  2  102  ~/Dockerfile
+|4,56,2,102,1750427551,"~/Dockerfile"
+'9  6  22  ~/Dockerfile
+|4,57,6,22,1750427551,"~/Dockerfile"
 
 # Jumplist (newest first):
+-'  1  6  ~/index.html
+|4,39,1,6,1750513566,"~/index.html"
+-'  4  39  ~/Dockerfile
+|4,39,4,39,1750512823,"~/Dockerfile"
+-'  4  39  ~/Dockerfile
+|4,39,4,39,1750512823,"~/Dockerfile"
+-'  1  27  ~/Dockerfile
+|4,39,1,27,1750512670,"~/Dockerfile"
+-'  1  27  ~/Dockerfile
+|4,39,1,27,1750512670,"~/Dockerfile"
 -'  3  0  ~/Dockerfile
 |4,39,3,0,1750502621,"~/Dockerfile"
+-'  3  0  ~/Dockerfile
+|4,39,3,0,1750502621,"~/Dockerfile"
+-'  2  102  ~/Dockerfile
+|4,39,2,102,1750502558,"~/Dockerfile"
 -'  2  102  ~/Dockerfile
 |4,39,2,102,1750502558,"~/Dockerfile"
 -'  1  0  ~/Sameerdockerfile
 |4,39,1,0,1750428652,"~/Sameerdockerfile"
 -'  1  0  ~/Sameerdockerfile
 |4,39,1,0,1750428652,"~/Sameerdockerfile"
+-'  1  0  ~/Sameerdockerfile
+|4,39,1,0,1750428652,"~/Sameerdockerfile"
+-'  1  0  ~/Sameerdockerfile
+|4,39,1,0,1750428652,"~/Sameerdockerfile"
+-'  1  0  ~/Sameerdockerfile
+|4,39,1,0,1750428652,"~/Sameerdockerfile"
+-'  1  0  ~/Sameerdockerfile
+|4,39,1,0,1750428652,"~/Sameerdockerfile"
+-'  1  0  ~/Sameerdockerfile
+|4,39,1,0,1750428652,"~/Sameerdockerfile"
+-'  1  0  ~/Sameerdockerfile
+|4,39,1,0,1750428652,"~/Sameerdockerfile"
 -'  1  12  ~/linuxfile1
 |4,39,1,12,1750427597,"~/linuxfile1"
 -'  1  12  ~/linuxfile1
@@ -63,6 +89,42 @@
 |4,39,1,12,1750427597,"~/linuxfile1"
 -'  1  12  ~/linuxfile1
 |4,39,1,12,1750427597,"~/linuxfile1"
+-'  1  12  ~/linuxfile1
+|4,39,1,12,1750427597,"~/linuxfile1"
+-'  1  12  ~/linuxfile1
+|4,39,1,12,1750427597,"~/linuxfile1"
+-'  1  12  ~/linuxfile1
+|4,39,1,12,1750427597,"~/linuxfile1"
+-'  1  12  ~/linuxfile1
+|4,39,1,12,1750427597,"~/linuxfile1"
+-'  1  12  ~/linuxfile1
+|4,39,1,12,1750427597,"~/linuxfile1"
+-'  1  12  ~/linuxfile1
+|4,39,1,12,1750427597,"~/linuxfile1"
+-'  1  12  ~/linuxfile1
+|4,39,1,12,1750427597,"~/linuxfile1"
+-'  1  12  ~/linuxfile1
+|4,39,1,12,1750427597,"~/linuxfile1"
+-'  1  12  ~/linuxfile1
+|4,39,1,12,1750427597,"~/linuxfile1"
+-'  1  12  ~/linuxfile1
+|4,39,1,12,1750427597,"~/linuxfile1"
+-'  1  12  ~/linuxfile1
+|4,39,1,12,1750427597,"~/linuxfile1"
+-'  1  12  ~/linuxfile1
+|4,39,1,12,1750427597,"~/linuxfile1"
+-'  7  22  ~/Dockerfile
+|4,39,7,22,1750427551,"~/Dockerfile"
+-'  6  22  ~/Dockerfile
+|4,39,6,22,1750427551,"~/Dockerfile"
+-'  6  22  ~/Dockerfile
+|4,39,6,22,1750427551,"~/Dockerfile"
+-'  6  22  ~/Dockerfile
+|4,39,6,22,1750427551,"~/Dockerfile"
+-'  6  22  ~/Dockerfile
+|4,39,6,22,1750427551,"~/Dockerfile"
+-'  7  22  ~/Dockerfile
+|4,39,7,22,1750427551,"~/Dockerfile"
 -'  6  22  ~/Dockerfile
 |4,39,6,22,1750427551,"~/Dockerfile"
 -'  6  22  ~/Dockerfile
@@ -79,6 +141,26 @@
 |4,39,3,25,1750427303,"~/Dockerfile"
 -'  3  25  ~/Dockerfile
 |4,39,3,25,1750427303,"~/Dockerfile"
+-'  3  25  ~/Dockerfile
+|4,39,3,25,1750427303,"~/Dockerfile"
+-'  3  25  ~/Dockerfile
+|4,39,3,25,1750427303,"~/Dockerfile"
+-'  3  25  ~/Dockerfile
+|4,39,3,25,1750427303,"~/Dockerfile"
+-'  3  25  ~/Dockerfile
+|4,39,3,25,1750427303,"~/Dockerfile"
+-'  5  25  ~/Dockerfile
+|4,39,5,25,1750426512,"~/Dockerfile"
+-'  4  25  ~/Dockerfile
+|4,39,4,25,1750426512,"~/Dockerfile"
+-'  4  25  ~/Dockerfile
+|4,39,4,25,1750426512,"~/Dockerfile"
+-'  4  25  ~/Dockerfile
+|4,39,4,25,1750426512,"~/Dockerfile"
+-'  4  25  ~/Dockerfile
+|4,39,4,25,1750426512,"~/Dockerfile"
+-'  5  25  ~/Dockerfile
+|4,39,5,25,1750426512,"~/Dockerfile"
 -'  4  25  ~/Dockerfile
 |4,39,4,25,1750426512,"~/Dockerfile"
 -'  4  25  ~/Dockerfile
@@ -95,6 +177,22 @@
 |4,39,4,25,1750426225,"~/Dockerfile"
 -'  4  25  ~/Dockerfile
 |4,39,4,25,1750426225,"~/Dockerfile"
+-'  4  25  ~/Dockerfile
+|4,39,4,25,1750426225,"~/Dockerfile"
+-'  4  25  ~/Dockerfile
+|4,39,4,25,1750426225,"~/Dockerfile"
+-'  4  25  ~/Dockerfile
+|4,39,4,25,1750426225,"~/Dockerfile"
+-'  4  25  ~/Dockerfile
+|4,39,4,25,1750426225,"~/Dockerfile"
+-'  4  27  ~/Dockerfile
+|4,39,4,27,1750424564,"~/Dockerfile"
+-'  4  27  ~/Dockerfile
+|4,39,4,27,1750424564,"~/Dockerfile"
+-'  4  27  ~/Dockerfile
+|4,39,4,27,1750424564,"~/Dockerfile"
+-'  4  27  ~/Dockerfile
+|4,39,4,27,1750424564,"~/Dockerfile"
 -'  4  27  ~/Dockerfile
 |4,39,4,27,1750424564,"~/Dockerfile"
 -'  4  27  ~/Dockerfile
@@ -138,36 +236,40 @@
 -'  1  10  ~/Dockerfile
 |4,39,1,10,1750424534,"~/Dockerfile"
 -'  1  10  ~/Dockerfile
-|4,39,1,10,1750424322,"~/Dockerfile"
+|4,39,1,10,1750424534,"~/Dockerfile"
 -'  1  10  ~/Dockerfile
-|4,39,1,10,1750424322,"~/Dockerfile"
+|4,39,1,10,1750424534,"~/Dockerfile"
 -'  1  10  ~/Dockerfile
-|4,39,1,10,1750424322,"~/Dockerfile"
+|4,39,1,10,1750424534,"~/Dockerfile"
 -'  1  10  ~/Dockerfile
-|4,39,1,10,1750424322,"~/Dockerfile"
+|4,39,1,10,1750424534,"~/Dockerfile"
 -'  1  10  ~/Dockerfile
-|4,39,1,10,1750424174,"~/Dockerfile"
+|4,39,1,10,1750424534,"~/Dockerfile"
 -'  1  10  ~/Dockerfile
-|4,39,1,10,1750424174,"~/Dockerfile"
--'  1  10  ~/Dockerfile
-|4,39,1,10,1750424174,"~/Dockerfile"
--'  1  10  ~/Dockerfile
-|4,39,1,10,1750424174,"~/Dockerfile"
+|4,39,1,10,1750424534,"~/Dockerfile"
 
 # History of marks within files (newest to oldest):
 
+> ~/index.html
+	*	1750513562	0
+	"	1	6
+	^	1	7
+	.	1	6
+	+	1	6
+
 > ~/Dockerfile
-	*	1750502617	0
-	"	3	0
-	^	3	0
-	.	2	16
-	+	2	37
-	+	2	12
-	+	2	39
-	+	2	60
-	+	2	41
-	+	2	80
-	+	2	16
+	*	1750512806	0
+	"	4	39
+	^	4	40
+	.	4	37
+	+	1	48
+	+	1	23
+	+	1	50
+	+	1	71
+	+	1	52
+	+	1	91
+	+	1	27
+	+	4	37
 
 > ~/Sameerdockerfile
 	*	1750428647	0
